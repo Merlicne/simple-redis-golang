@@ -1,6 +1,6 @@
 # SimpleRedis
 
-SimpleRedis is a lightweight and easy-to-use Redis client library written in Go. It provides a simple interface to interact with a Redis server, allowing you to perform common operations such as setting, getting, and deleting keys.
+SimpleRedis is a easy-to-use Redis client written in Go. It provides a simple interface to interact with a Redis server, allowing you to perform common operations such as setting, getting, and deleting keys.
 
 ## Features
 
